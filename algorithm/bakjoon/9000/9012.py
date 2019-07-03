@@ -1,7 +1,7 @@
 import sys
  
 tc = int(sys.stdin.readline())
- 
+  
 for t in range(0, tc):
     flag = 1
     stack = []
